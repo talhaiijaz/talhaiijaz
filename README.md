@@ -1,11 +1,9 @@
 <h1 align="center">Hey 👋, I'm Talha</h1>
 <h3 align="center">CS & Applied Maths Junior @ UC Berkeley</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmi2004&label=Profile%20views&color=0e75b6&style=flat" alt="mmi2004" /> </p>
-
 - 📫 Feel free to reach out! **talhaijaz@berkeley.edu**
 
-- 🌱 I’m currently a **Backend Developer Intern at Shopify.**
+- 🌱 I’m currently a **Sofware Developer at Kollegio AI.**
 
 - 👯 Open to collaborating on **anything!**
 
