@@ -1,11 +1,7 @@
 <h1 align="center">Hey 👋, I'm Talha</h1>
-<h3 align="center">CS & Applied Maths Junior @ UC Berkeley</h3>
+<h3 align="center">CS & Applied Maths Senior @ UC Berkeley</h3>
 
 - 📫 Feel free to reach out! **talhaijaz@berkeley.edu**
-
-- 🌱 I’m currently a **Sofware Developer at Kollegio AI.**
-
-- 👯 Open to collaborating on **anything!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
